@@ -1,6 +1,3 @@
-// Hussien Essam 20180089 //
-// Yousef Fathy 20180348 //
-
 #include <iostream>
 
 #include <cstring>
